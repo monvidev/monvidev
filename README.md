@@ -8,7 +8,7 @@ Hola, me llamo Victor Montero y soy estudiante de Grado Superior de Desarrollo d
 ### ⌨️ Herramientas y Lenguajes de Programación
 
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,html,css,java,js)](https://skillicons.dev"/>
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,java)](https://skillicons.dev"/>
 
 <br>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,godot)](https://skillicons.dev"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,godot,git)](https://skillicons.dev"/>
