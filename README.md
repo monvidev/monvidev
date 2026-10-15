@@ -1,6 +1,6 @@
 <h1 align="left">¡Hola, bienvenido a mi perfil, soy MonviDev!</h1>
 
-**Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma**
+<font size="2">**Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma**</font>
 #
 ### ⌨️ Herramientas y Lenguajes de Programación
 
