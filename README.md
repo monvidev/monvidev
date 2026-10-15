@@ -1,7 +1,6 @@
 <h1 align="left">¡Hola, bienvenido a mi perfil, soy MonviDev!</h1>
 
 Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma
-![](https://github.com/monvidev/monvidev/blob/main/banner%20v1.4.png)
 #
 ### ⌨️ Herramientas y Lenguajes de Programación
 
